@@ -2,11 +2,9 @@
 
 This repository is part of my Forge Applications - Skills Challenge submission. It contains the following components:
 
-📂 Folders
+📂 Data Folders
 
-xml/ – Contains raw data extracted from the Stack Exchange data dump.
-
-csv/ – Contains the transformed data in CSV format for easier analysis.
+Both the raw xml files and csv files are hosted on a google drive here: https://drive.google.com/drive/folders/1RGYjWGMzyj9-8tW12Ktac693ODvOrDfh?usp=sharing
 
 📄 Files
 
