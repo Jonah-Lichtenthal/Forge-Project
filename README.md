@@ -12,4 +12,6 @@ Forge_Project.ipynb – Jupyter Notebook with all code and analysis for the proj
 
 Forge_Presentation.pptx – PowerPoint presentation summarizing the project.
 
+------------------------------------------------------------------------------------
+
 I appreciate the Forge team for this opportunity and look forward to showcasing my work.
